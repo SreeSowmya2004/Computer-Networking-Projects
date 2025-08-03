@@ -1,6 +1,6 @@
 # 🌐 Computer Networks Guide
 
-# 🔌 1. What is a Computer Network?
+## 🔌 1. What is a Computer Network?
 A computer network is a system that connects multiple computing devices (computers, servers, mobile phones, etc.) so they can communicate, share data, and access resources.
 
 ---
